@@ -24,11 +24,14 @@ Baseline Methods:
   
   
 Datasets: (DS/datsets)
+
   Real Networks : Norwegian Interlocking Directorate (Nor), Consulting Company (CN) and Research Team (RT)
+  
   Synthetic Networks: functional organization (FO), divisional organization (DO), Scale Free -Power Law (SF)
 
 
 Experiments:
+
   1) FairEA Evaluation: (Experiments_Evaluation.py)
   2) Example of usage of FairEA:  (Experiments_CaseStudy.py) 
   
