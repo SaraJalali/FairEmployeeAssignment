@@ -1,0 +1,14 @@
+c7      male
+c8      female
+c9      male
+c10      male
+c11      female
+c12      female
+c13      male
+c0      male
+c1      female
+c2      male
+c3      male
+c4      female
+c5      female
+c6      male

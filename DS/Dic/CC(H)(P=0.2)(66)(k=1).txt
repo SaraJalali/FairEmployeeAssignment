@@ -1,0 +1,9 @@
+c0      male
+c1      female
+c2      male
+c3      female
+c4      female
+c5      female
+c6      female
+c7      female
+c8      male
