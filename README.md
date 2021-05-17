@@ -2,6 +2,8 @@ On Measuring the Diversity of Organizational Networks
 
 Published in: CompleNet 2021
 
+Link: https://arxiv.org/pdf/2105.06929.pdf
+
 Authors: Zeinab S. Jalali, Krishnaram Kenthapadi, and Sucheta Soundarajan1
 
 
